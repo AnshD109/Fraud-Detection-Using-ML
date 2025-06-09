@@ -1,4 +1,4 @@
-# 💳 Fraud Detection in Online Transactions      using Machine Learning
+# 💳 Fraud Detection in Online Transactions using Machine Learning
 
 > A final year dissertation project submitted in April 2024 by Ansh Dankhara, Kenil Dhola, and Fenil Kakadiya as part of the IMSc(IT) program at GLS University.
 
